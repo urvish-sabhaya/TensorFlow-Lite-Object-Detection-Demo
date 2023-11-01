@@ -304,7 +304,7 @@ class HomeActivity : AppCompatActivity(), ObjectDetectorHelper.DetectorListener 
             overlayView.invalidate()
 
             // Update the detection count
-            updateDetectionCount(results!!.size)
+            results?.let { updateDetectionCount(it.size) }
         }
     }
 
