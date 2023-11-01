@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ObjectDetectionTFUrvish</string>
+    <string name="flip_camera">Flip Camera</string>
+    <string name="threshold_50">Threshold: 50</string>
+    <string name="count_0">Count: 0</string>
+    <string name="detection_count">Detection Count: %d</string>
+    <string name="threshold">Threshold: %d</string>
+    <string name="grant">Grant</string>
+    <string name="not_now">Not now</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="app_requires_permissions">App requires camera and storage permissions to work correctly</string>
+</resources>

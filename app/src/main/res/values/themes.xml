@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ObjectDetectionTFUrvish" parent="Theme.AppCompat.Light" />
+
+    <style name="CustomSeekBarStyle" parent="Widget.AppCompat.SeekBar">
+        <item name="android:progressBackgroundTint">#C3C3C3</item>
+        <item name="android:progressTint">#FFFFFF</item>
+        <item name="android:thumbTint">#FFFFFF</item>
+    </style>
+</resources>
