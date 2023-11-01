@@ -18,7 +18,7 @@ Before getting started, make sure you have the following:
 
 2. Open Android Studio and select "Open an existing Android Studio project."
 
-3. Navigate to the cloned repository and select the "object-detection-app" directory.
+3. Navigate to the cloned repository and select the "TensorFlow-Lite-Object-Detection" directory.
 
 4. Connect your Android device to your computer or start an Android emulator.
 
