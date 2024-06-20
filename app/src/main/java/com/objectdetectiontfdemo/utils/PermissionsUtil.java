@@ -1,4 +1,4 @@
-package com.example.objectdetectiontfurvish.utils;
+package com.objectdetectiontfdemo.utils;
 
 import android.Manifest;
 import android.app.Activity;

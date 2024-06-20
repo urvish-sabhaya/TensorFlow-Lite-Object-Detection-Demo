@@ -1,4 +1,4 @@
-package com.example.objectdetectiontfurvish.activity
+package com.objectdetectiontfdemo.activity
 
 import android.app.Activity
 import android.content.Intent
@@ -30,10 +30,10 @@ import androidx.camera.lifecycle.ProcessCameraProvider
 import androidx.camera.view.PreviewView
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.example.objectdetectiontfurvish.R
-import com.example.objectdetectiontfurvish.tfhelper.ObjectDetectorHelper
-import com.example.objectdetectiontfurvish.tfhelper.OverlayView
-import com.example.objectdetectiontfurvish.utils.PermissionsUtil
+import com.objectdetectiontfdemo.R
+import com.objectdetectiontfdemo.tfhelper.ObjectDetectorHelper
+import com.objectdetectiontfdemo.tfhelper.OverlayView
+import com.objectdetectiontfdemo.utils.PermissionsUtil
 import org.tensorflow.lite.task.vision.detector.Detection
 import java.io.File
 import java.io.FileOutputStream

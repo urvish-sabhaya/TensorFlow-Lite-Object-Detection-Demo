@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ObjectDetectionTFUrvish</string>
+    <string name="app_name">Object Detection TF Demo</string>
     <string name="flip_camera">Flip Camera</string>
     <string name="threshold_50">Threshold: 50</string>
     <string name="count_0">Count: 0</string>

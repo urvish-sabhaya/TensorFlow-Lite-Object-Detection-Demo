@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.objectdetectiontfurvish'
+    namespace 'com.objectdetectiontfdemo'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.objectdetectiontfurvish"
+        applicationId "com.objectdetectiontfdemo"
         minSdk 24
         targetSdk 33
         versionCode 1

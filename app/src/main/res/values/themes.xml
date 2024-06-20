@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.ObjectDetectionTFUrvish" parent="Theme.AppCompat.Light" />
+    <style name="Theme.ObjectDetectionTF" parent="Theme.AppCompat.Light" />
+
+    <style name="Theme.ObjectDetectionTFNoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar"/>
 
     <style name="CustomSeekBarStyle" parent="Widget.AppCompat.SeekBar">
         <item name="android:progressBackgroundTint">#C3C3C3</item>

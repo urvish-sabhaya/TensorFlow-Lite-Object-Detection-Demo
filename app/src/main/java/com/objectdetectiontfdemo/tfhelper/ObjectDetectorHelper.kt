@@ -1,4 +1,4 @@
-package com.example.objectdetectiontfurvish.tfhelper
+package com.objectdetectiontfdemo.tfhelper
 
 import android.content.Context
 import android.graphics.Bitmap

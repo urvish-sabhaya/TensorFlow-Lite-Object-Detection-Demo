@@ -1,4 +1,4 @@
-package com.example.objectdetectiontfurvish.tfhelper
+package com.objectdetectiontfdemo.tfhelper
 
 import android.content.Context
 import android.graphics.Canvas
@@ -9,7 +9,7 @@ import android.graphics.RectF
 import android.util.AttributeSet
 import android.view.View
 import androidx.core.content.ContextCompat
-import com.example.objectdetectiontfurvish.R
+import com.objectdetectiontfdemo.R
 import org.tensorflow.lite.task.vision.detector.Detection
 import java.util.LinkedList
 import kotlin.math.max
